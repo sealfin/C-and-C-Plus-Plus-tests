@@ -1,0 +1,18 @@
+- This program performs the (semi-)automated black-box testing of the f_seal_ConcatenateStrings(_C) function(s).
+---
+
+1 - Passed (C)
+  - Passed (C++)
+2 - Passed (C)
+  - Passed (C++)
+3 - Passed (C)
+  - Passed (C++)
+4 - Passed (C)
+  - Passed (C++)
+5 - (C) To pass this test, an error message must be printed to stdout:
+    f_seal_ConcatenateStrings_C - p == NULL.
+  - (C++) To pass this test, an error message must be printed to stdout:
+    f_seal_ConcatenateStrings - p == NULL.
+
+---
+- This program will now quit.
