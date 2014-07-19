@@ -1,6 +1,5 @@
 #include "seal_stringComparison.h"
 #include <stdio.h>
-#include <string.h>
 
 static int testNumber = 1;
 
